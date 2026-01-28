@@ -88,7 +88,6 @@ The primary objective is to understand **how consumers trade off between product
 ---
 
 ## ▸ Repository Contents
-▪️ Methodology and analytical reports  
-▪️ Excel-based conjoint and segmentation analysis files  
-▪️ Final presentation summarising insights and recommendations  
-▪️ Supporting workshop and survey design materials  
+▪️ [Reports](./reports) — methodology and analytical write-ups  
+▪️ [Analysis](./analysis) — conjoint outputs, utilities, and supporting files  
+▪️ [Presentation](./presentation) — final presentation slides  
